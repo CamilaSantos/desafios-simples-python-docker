@@ -1,6 +1,6 @@
 # Estudos Python e Docker 
 
-Este repositório documenta minha jornada de aprendizado em Python e Docker, com foco em aplicações para automação e desenvolvimento. Aqui você encontrará uma coleção de desafios práticos e projetos simples para iniciantes, cada um demonstrando conceitos fundamentais das linguagens e da tecnologia de containerização.
+git 
 
 ## Estrutura do Repositório
 
